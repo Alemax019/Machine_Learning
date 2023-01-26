@@ -1,6 +1,6 @@
 # Machine_Learning
 
-## Table of Contents
+## Tabla de contenido
 1. [Informacion Ganeral](#informacion-general)
 2. [Tecnologia](#tecnologia)
 3. [Paso a Paso](#paso-a-paso)
@@ -10,7 +10,7 @@
 ***
 Realizando una definición del problema encontramos que debemos hacer un modelo predictivo para nuestra Empresa, bajo los estándares de la compañía un modelo que pueda predecir si una propiedad está por debajo de los estándares de nivel bajo, para esto implementaremos un modelo supervisado para definir las mejores alternativas de nuestro proyecto predictivo a continuación haremos una breve descripción de los implementos y tecnologías que utilizamos para realizar este Proyecto
 
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+[Image text]( https://github.com/Alemax019/Machine_Learning/blob/main/descarga.jpeg)
 
 ## Tecnologias
 ***
@@ -23,6 +23,7 @@ Una Lista de las tecnologias utilizadas:
 * [seaborn](https://example.com): Version 0.12.2
 * [matplotlib](https://example.com): Version 0.1.6
 
+[Image text](https://github.com/Alemax019/Machine_Learning/blob/main/1_2aGjVH9aCRSXsMg1vT4peg.png)
 
 ## Paso a Paso
 ***
@@ -63,3 +64,5 @@ Agradecimiento a nuestros instructores y compañeros que nos aportan deferentes 
 Todo nuestro proyecto se encuentra en 
 * Git link(https://github.com/Alemax019/Machine_Learning)
 * LinkedIn(https://www.linkedin.com/in/cristiangarcia019)
+
+
