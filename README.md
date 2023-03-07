@@ -1,5 +1,6 @@
 # Machine_Learning
 
+
 ## Tabla de contenido
 1. [Informacion Ganeral](#informacion-general)
 2. [Tecnologia](#tecnologia)
@@ -63,6 +64,9 @@ Agradecimiento a nuestros instructores y compañeros que nos aportan deferentes 
 
 Todo nuestro proyecto se encuentra en 
 * Git link(https://github.com/Alemax019/Machine_Learning)
-* LinkedIn(https://www.linkedin.com/in/cristiangarcia019)
+
+Contacto:  <a href="https://www.linkedin.com/in/alemax019/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"></a>  
+
+Saludos!
 
 
